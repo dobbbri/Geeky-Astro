@@ -6,7 +6,7 @@
   "template": [
     {
       "name": "title",
-      "label": "Title",
+      "label": "Título",
       "type": "string",
       "value": "",
       "isRequired": true,
@@ -14,7 +14,7 @@
     },
     {
       "name": "date",
-      "label": "Date",
+      "label": "Data",
       "type": "Date",
       "value": "",
       "isRequired": true,
@@ -23,7 +23,7 @@
     },
     {
       "name": "image",
-      "label": "Image",
+      "label": "Imagem",
       "type": "media",
       "value": "",
       "isRequired": true,
@@ -31,7 +31,7 @@
     },
     {
       "name": "categories",
-      "label": "Categories",
+      "label": "Categorias",
       "type": "Array",
       "value": [],
       "isRequired": true,
