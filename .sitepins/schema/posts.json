@@ -62,6 +62,16 @@
       "isRequired": false,
       "defaultValue": "",
       "subType": "string"
+    },
+    {
+      "name": "authors",
+      "label": "Autores",
+      "type": "Array",
+      "value": [],
+      "description": "",
+      "isRequired": true,
+      "defaultValue": "",
+      "subType": "string"
     }
   ]
 }
