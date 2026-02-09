@@ -35,7 +35,8 @@
       "type": "Array",
       "value": [],
       "isRequired": true,
-      "defaultValue": ""
+      "defaultValue": "",
+      "subType": "string"
     },
     {
       "name": "featured",
@@ -51,6 +52,16 @@
       "value": false,
       "isRequired": true,
       "defaultValue": ""
+    },
+    {
+      "name": "tags",
+      "label": "Etiquetas",
+      "type": "Array",
+      "value": [],
+      "description": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "subType": "string"
     }
   ]
 }
