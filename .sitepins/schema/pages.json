@@ -6,7 +6,7 @@
   "template": [
     {
       "name": "title",
-      "label": "Title",
+      "label": "Titulo",
       "type": "string",
       "value": "",
       "isRequired": true,
@@ -14,21 +14,21 @@
     },
     {
       "name": "meta_title",
-      "label": "Meta Title",
+      "label": "Sub titulo",
       "type": "string",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "description",
-      "label": "Description",
+      "label": "Descrição",
       "type": "string",
       "value": "",
       "defaultValue": ""
     },
     {
       "name": "draft",
-      "label": "Draft",
+      "label": "Rascunho",
       "type": "boolean",
       "value": false,
       "isRequired": true,
